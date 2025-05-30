@@ -1,0 +1,9 @@
+<probe_result>
+  <ip>10.1.1.50</ip>
+  <host_name>srv-linux-01</host_name>
+  <os_name>Ubuntu</os_name>
+  <os_version>20.04</os_version>
+  <cpu_count>4</cpu_count>
+  <memory_mb>8192</memory_mb>
+  <disk_gb>120</disk_gb>
+</probe_result>
