@@ -1,0 +1,11 @@
+<probe_result>
+  <ip>10.1.1.50</ip>
+  <port>22</port>
+  <status>open</status>
+  <host_name>srv-linux-01</host_name>
+  <os_hint>Linux</os_hint>
+  <shazzam>
+    <port>135</port><status>closed</status>
+    <port>3389</port><status>closed</status>
+  </shazzam>
+</probe_result>
