@@ -1,0 +1,6 @@
+<probe>
+  <name>ShazzamProbe</name>
+  <ip>10.1.1.50</ip>
+  <range>10.1.1.50-10.1.1.60</range>
+  <ports>22,135,3389,161,80</ports>
+</probe>
